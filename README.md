@@ -34,6 +34,8 @@ Any changes to the default service are saved to the configuration file, affectin
 ## Getting Started
 
 1. Clone the repository
+   ```bash
+   git clone https://github.com/DishaBasti/Service_Manager.git
    ```
 
 2. Create a 'service_manager.log' file in the same directory.
