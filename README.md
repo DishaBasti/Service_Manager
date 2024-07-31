@@ -31,8 +31,16 @@ Based on user input, the script will execute the relevant commands to manage ser
 
 Any changes to the default service are saved to the configuration file, affecting subsequent script runs.
 
-## How to start
+## Getting Started
 
-1. Implement the Python script and save the service_manager.py file in the project directory.
-2. Run the command prompt as administrator. Go to the directory and run the python file.
-3. The service manager is at its service.
+1. Clone the repository
+   ```
+
+2. Create a 'service_manager.log' file in the same directory.
+
+3. Run cmd as administrator in the directory where the files are present.
+   ```
+   python service_manager.py
+   ```
+The service manager is at its service.
+
